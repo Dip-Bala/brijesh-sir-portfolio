@@ -12,13 +12,14 @@ Date: 15/07/2024
 
 ## Getting Started
 
-Prerequisites: List the necessary software and tools (Node.js, npm or yarn, a code editor).
-
+Prerequisites: Node npm 
 Installation: Provide step-by-step instructions on how to set up the project:
 
-Cloning the repository
+Cloning the repository: 
+Download the zip file
 
-Installing dependencies (npm install or yarn install)
+
+Installing dependencies: npm install 
 
 Development Server: Explain how to start the development server (e.g., npm start or yarn start).
 
