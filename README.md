@@ -2,13 +2,13 @@
 
 ## Introduction
 
-##Project Title: Brijesh Kumar's Personal Website
+Project Title: Brijesh Kumar's Personal Website
 
-##Project Description: This website displays the 
+Project Description: This website displays the 
 
-##Author: Dipanwita Bala
+Author: Dipanwita Bala
 
-##Date: 15/07/2024
+Date: 15/07/2024
 
 ## Getting Started
 ...
